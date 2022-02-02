@@ -1,0 +1,23 @@
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.exe.config
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.exe
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.pdb
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.xml
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\obj\Debug\ses_kaydedici.Form1.resources
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\obj\Debug\ses_kaydedici.Resources.resources
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.vbproj.GenerateResource.Cache
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.exe
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.xml
+c:\users\osman\documents\visual studio 2013\Projects\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.pdb
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.exe.config
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.exe
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.pdb
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\bin\Debug\ses kaydedici.xml
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.vbproj.AssemblyReference.cache
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.vbproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses_kaydedici.Form1.resources
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses_kaydedici.Resources.resources
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.vbproj.GenerateResource.cache
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.vbproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.exe
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.xml
+D:\Programming\Visual Studio Projeleri\repos\ses kaydedici\ses kaydedici\obj\Debug\ses kaydedici.pdb

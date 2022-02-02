@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ses kaydedici", "ses kaydedici\ses kaydedici.vbproj", "{9C1F624D-8E9A-4498-9C6C-BDB67569D0EC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Baslink", "Baslink\Baslink.vdproj", "{6BE95578-46A1-471B-A641-0DF0B0E92C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1F624D-8E9A-4498-9C6C-BDB67569D0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1F624D-8E9A-4498-9C6C-BDB67569D0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1F624D-8E9A-4498-9C6C-BDB67569D0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1F624D-8E9A-4498-9C6C-BDB67569D0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE95578-46A1-471B-A641-0DF0B0E92C5D}.Debug|Any CPU.ActiveCfg = Debug
+		{6BE95578-46A1-471B-A641-0DF0B0E92C5D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
